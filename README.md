@@ -7,4 +7,4 @@ meituan-img-bed项目
 
 token填美团开放平台的，你问我怎么填？不好意思，我也不会，如果琢磨出来了希望给提个issues指导一下，谢谢~
 
-20240425补充：看了一下源码，应该是 https://czz.meituan.com 这个开放平台，因为有一段代码是 'Origin: https://czz.meituan.com'这样写的，刚好也叫开放平台，只是作为一个参考，不一定保真
+20240425补充：看了一下源码，应该是 https://czz.meituan.com 这个开放平台，因为有一段代码是  'Origin: https://czz.meituan.com' 这样写的，打开后刚好也叫开放平台，当然我没审核过，不知道是不是
