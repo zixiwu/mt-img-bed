@@ -1,2 +1,7 @@
-# mt-tubed
-meituan
+# mt-img-bed
+meituan-img-bed项目
+
+没啥说的，就是从网上扒的，我也忘了来源了
+
+token填美团开放平台的，你问我怎么填？不好意思，我也不会，如果琢磨出来了希望给提个issues指导我一下
+谢谢各位大佬
