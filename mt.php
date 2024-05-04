@@ -1,7 +1,11 @@
 <?php
-// 作者：来源于网络非本人
-// https://github.com/zixiwu/mt-img-bed
-// 随意转载，尽量留个出处吧
+// ----------------------
+// 作者：在意 zai1.com
+// 来源：https://zai1.com/word/141.html
+// 本仓库仅用于分享，之前不知道作者，现在才知道，特意加上作者的版权出处
+// 作者要求随意转载，但需要保留出处
+// 本仓库地址：https://github.com/zixiwu/mt-img-bed
+// ----------------------
 // 检查是否有文件上传
 if(isset($_FILES['file'])) {
     // 获取文件信息
@@ -26,7 +30,7 @@ if(isset($_FILES['file'])) {
         'sec-ch-ua: "Not A(Brand";v="99", "Microsoft Edge";v="121", "Chromium";v="121"',
         'sec-ch-ua-mobile: ?0',
         'sec-ch-ua-platform: "Windows"',
-        'token: 这里填美团开放平台的token，我也不懂怎么填，有琢磨明白的希望留个issues给我讲讲，谢谢~'
+        'token: 这里填美团开放平台的token，在这里登陆获取即可czz.meituan.com'
     );
     // 构建 multipart/form-data 格式的数据
     $postData = "------WebKitFormBoundarywt1pMxJgab51elEB\r\n";
